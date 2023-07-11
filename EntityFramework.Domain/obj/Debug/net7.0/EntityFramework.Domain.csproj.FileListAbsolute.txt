@@ -1,0 +1,12 @@
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\bin\Debug\net7.0\EntityFramework.Domain.deps.json
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\bin\Debug\net7.0\EntityFramework.Domain.dll
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\bin\Debug\net7.0\EntityFramework.Domain.pdb
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\EntityFramework.Domain.csproj.AssemblyReference.cache
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\EntityFramework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\EntityFramework.Domain.AssemblyInfoInputs.cache
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\EntityFramework.Domain.AssemblyInfo.cs
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\EntityFramework.Domain.csproj.CoreCompileInputs.cache
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\EntityFramework.Domain.dll
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\refint\EntityFramework.Domain.dll
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\EntityFramework.Domain.pdb
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Domain\obj\Debug\net7.0\ref\EntityFramework.Domain.dll

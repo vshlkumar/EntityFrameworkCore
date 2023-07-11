@@ -1,0 +1,17 @@
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\bin\Debug\net7.0\EntityFramework.Services.deps.json
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\bin\Debug\net7.0\EntityFramework.Services.dll
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\bin\Debug\net7.0\EntityFramework.Services.pdb
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\bin\Debug\net7.0\EntityFramework.Data.dll
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\bin\Debug\net7.0\EntityFramework.Domain.dll
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\bin\Debug\net7.0\EntityFramework.Data.pdb
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\bin\Debug\net7.0\EntityFramework.Domain.pdb
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\EntityFramework.Services.csproj.AssemblyReference.cache
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\EntityFramework.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\EntityFramework.Services.AssemblyInfoInputs.cache
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\EntityFramework.Services.AssemblyInfo.cs
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\EntityFramework.Services.csproj.CoreCompileInputs.cache
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\EntityFramework.Services.csproj.CopyComplete
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\EntityFramework.Services.dll
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\refint\EntityFramework.Services.dll
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\EntityFramework.Services.pdb
+D:\Test Projects\EntityFrameworkProject\EntityFramework.Services\obj\Debug\net7.0\ref\EntityFramework.Services.dll
